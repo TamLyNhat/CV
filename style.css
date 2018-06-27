@@ -1,0 +1,50 @@
+.lnt{
+	height: 200px;
+	background-color: #6C7B8B;
+}
+
+#lynhattam
+{
+	padding: 10px 5px 5px 970px;
+	font-weight: bold;
+	font-size: 50px;
+	color: white;
+	text-shadow: 2px 2px 2px #97FFFF;
+}
+
+#thuctapsinh
+{
+	padding: 0px 5px 9px 1030px;
+	font-style: italic;
+	font-size: 35px;
+	color: white;
+}
+
+#img1
+{
+	height: 200px;
+	width: 200px;
+	border-radius: 100px 100px 100px 100px;
+}
+
+.container1
+{
+	margin-top: 10px;
+	background-color: #D1DCEA;
+	height: 350px;
+}
+
+.details
+{
+	padding-top: 5px;
+	font-size: 22px;
+	float: left;
+	padding-bottom: 20px;
+	
+}
+
+.details i
+{
+	padding-right: 10px;
+	padding-left: 10px;
+} 
